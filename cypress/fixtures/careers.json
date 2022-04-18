@@ -1,0 +1,37 @@
+[
+{
+    "testName" : "Empty Mobile",
+    "Name": "Luchia",
+    "Message": "Test",
+    "Email":"test@test.com",
+    "Mobile":" "
+},
+{
+    "testName" : "Empty Name",
+    "Name": " ",
+    "Message": "Test",
+    "Email":"test@test.com",
+    "Mobile":"dd"
+},
+{
+    "testName" : "Empty Email",
+    "Name": "Luchia",
+    "Message": "Test",
+    "Email":" ",
+    "Mobile":"-4654568161"
+},
+{
+    "testName" : "Wrong Email",
+    "Name": "Luchia",
+    "Message": "Test",
+    "Email":"test.test ",
+    "Mobile":"+46545681"
+},
+{
+    "testName" : "Empty Message",
+    "Name": "Luchia",
+    "Message": " ",
+    "Email":"test@test.com",
+    "Mobile":"+568963206"
+}
+]

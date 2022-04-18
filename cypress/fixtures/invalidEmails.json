@@ -1,0 +1,22 @@
+[
+  {
+    "testName": "Invalid Email 1 - Without domain.",
+    "email": "test@test"
+  },
+  {
+    "testName": "Invalid Email 2 - With '@' sign in the start.",
+    "email": "@test.com"
+  },
+  {
+    "testName": "Invalid Email 3 - Without provider after '@'.",
+    "email": "test@.com"
+  },
+  {
+    "testName": "Invalid Email 4 - With two dots.",
+    "email": "test@test..com"
+  },
+  {
+    "testName": "Invalid Email 5 - Without '@' sign.",
+    "email": "test-test.com"
+  }
+]

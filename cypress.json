@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://www.musala.com/",
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "experimentalStudio":true,
+    "chromeWebSecurity": false
+
+
+}
+
